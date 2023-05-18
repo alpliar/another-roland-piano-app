@@ -1,7 +1,7 @@
 # another-roland-piano-app
 Companion app for Roland RP701 / F701 / RP107 / F107
 
-Official app is so slow that an alternative has to exist :)
+[Roland Piano App](https://www.roland.com/fr/products/roland_piano_app/) is so slow that an alternative has to exist :)
 
 ## About Roland RP701 / F701 / RP107 / F107
 
