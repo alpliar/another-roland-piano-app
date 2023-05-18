@@ -32,6 +32,7 @@ The app should implement the following Roland Piano App features :
 *Tools* : 
 * [SendMIDI](https://github.com/gbevin/SendMIDI/tree/master) (https://github.com/gbevin/SendMIDI/releases/tag/1.1.0 latest for linux)
 * [Pian.co, on github](https://github.com/drahoslove/pianco/)
+* [MIDIVisualizer, on github](https://github.com/kosua20/MIDIVisualizer)
 
 ### Bash commands 
 
