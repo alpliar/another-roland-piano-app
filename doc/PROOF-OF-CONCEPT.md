@@ -42,8 +42,13 @@ To *check that piano is detected by operating system*, run :
 lsusb | grep "Roland Digital Piano"
 ```
 
-To *sniff midi messages emmited by the piano*, connect piano using USB, and launch :
+To *sniff midi messages emmited by the piano*, connect piano using USB, and run :
 
 ```bash
 aseqdump -p "Roland Digital Piano"
+```
+To *make the piano play some notes*, run : 
+
+```bash
+for i in A4 B4 B3 A4 C5; do    ./sendmidi dev "Roland DIgital Piano MIDI 1" on $i 80;    sleep 0.5; done
 ```
