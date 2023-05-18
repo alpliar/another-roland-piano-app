@@ -13,3 +13,7 @@ Companion app for Roland RP701 / F701 / RP107 / F107
 
 ### MIDI Implementation
 [[ENGLISH] RP701 / F701 / RP107 / F107 MIDI IMPLEMENTATION [PDF]](https://static.roland.com/assets/media/pdf/RP701_F701_RP107_F107_MIDI_eng01_W.pdf)
+
+## Documentation
+
+* [PROOF-OF-CONCEPT.md](/doc/PROOF-OF-CONCEPT.md)
