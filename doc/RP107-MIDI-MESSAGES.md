@@ -41,9 +41,17 @@ Source  Event                  Ch  Data
 ## "Stage EP" (Settings + C#1)
 
 ```
-Waiting for data. Press Ctrl+C to end.
 Source  Event                  Ch  Data
  24:0   Control change          0, controller 0, value 8
  24:0   Control change          0, controller 32, value 71
  24:0   Program change          0, program 4
+```
+
+## "Jazz Scat" (Settings + B1)
+
+```
+Source  Event                  Ch  Data
+ 24:0   Control change          0, controller 0, value 0
+ 24:0   Control change          0, controller 32, value 65
+ 24:0   Program change          0, program 54
 ```
