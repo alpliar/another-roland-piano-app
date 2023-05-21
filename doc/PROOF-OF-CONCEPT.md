@@ -42,6 +42,18 @@ To *check that piano is detected by operating system*, run :
 lsusb | grep "Roland Digital Piano"
 ```
 
+To *scan midi devices for Roland piano*, run : 
+
+```bash
+aconnect -l | grep "Roland Digital Piano"
+```
+```
+client 24: 'Roland Digital Piano' [type=kernel,card=2]
+    0 'Roland Digital Piano MIDI 1'
+```
+
+Note midi device name, in our case `Roland Digital Piano MIDI 1`
+
 To *sniff midi messages emmited by the piano*, connect piano using USB, and run :
 
 ```bash
